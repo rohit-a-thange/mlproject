@@ -1,4 +1,4 @@
-## End to End Machine Learning Project by Krish Naik
+## End to End Machine Learning Project
 
 Self notes:
 Usually, there are mixed features (categorical & numerical) in a dataset.
